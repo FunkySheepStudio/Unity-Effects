@@ -1,0 +1,28 @@
+{
+  "name": "net.funkysheep.unity.effects",
+  "displayName": "FunkySheep Unity Effects Library",
+  "version": "0.1.0",
+  "unity": "2020.3",
+  "description": "FunkySheep framework Effects Library",
+  "keywords": [
+    "Effects",
+    "Unity",
+    "WebGl",
+    "AR",
+    "Android",
+    "IOS"
+  ],
+  "category": "Effects",
+  "changelogUrl": "https://github.com/FunkySheepStudio/Unity-Effects/blob/main/CHANGELOG.md",
+  "dependencies": {
+  },
+  "scopedRegistries": [
+    {
+      "name": "npmjs",
+      "url": "https://registry.npmjs.org",
+      "scopes": [
+        "net.funkysheep"
+      ]
+    }
+  ]
+}
